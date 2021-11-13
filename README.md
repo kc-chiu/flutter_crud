@@ -25,7 +25,7 @@ Refer to [Flutter Cookbook](https://flutter.dev/docs/cookbook#networking) for
 more details on working with HTTP requests in a Flutter app.
 
 ### Switching Databases/Data Providers
-In todos_repository.dart, there are 3 factory constructor declaration.
+In [todos_repository.dart](/lib/models/todos_repository.dart), there are 3 factory constructor declaration.
 Each declaration is an implementation of a database/data provider. Just
 comment out the 2 implementation not to be used. The uncommented implementation
 will be the active database/data provider.
