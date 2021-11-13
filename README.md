@@ -1,7 +1,7 @@
 # Flutter CRUD
 A simple todos list for practising Flutter CRUD operation on different databases.
 
-Only the lib folder and pubspec.yaml file were uploaded. The other files will be created
+Only the [lib](/lib) folder and pubspec.yaml file were uploaded. The other files will be created
 by [Flutter SDK](https://flutter.dev/docs/get-started/install) on creating a new Flutter project.
 
 ### Databases/Data Providers used
